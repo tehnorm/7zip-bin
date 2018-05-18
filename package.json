@@ -9,7 +9,7 @@
   ],
   "license": "MIT",
   "repository": "develar/7zip-bin",
-  "optionalDependencies": {
+  "dependencies": {
     "7zip-bin-mac": "~1.0.1",
     "7zip-bin-win": "~2.2.0",
     "7zip-bin-linux": "~1.3.1"
